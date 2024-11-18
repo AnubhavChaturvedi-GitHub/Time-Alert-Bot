@@ -40,7 +40,7 @@ This Python-based Time Alert System provides hourly time notifications using tex
 
 ### Option 2: Use the Pre-Built `.exe` File
 1. [Download the pre-built `.exe` file here](#).  
-   *(Add your link to the `.exe` file here.)*
+   *((https://github.com/AnubhavChaturvedi-GitHub/Time-Alert-Bot/blob/main/dist/timeSpeaker.exe))*
 2. Double-click the `.exe` file to start the program.
 3. It will run in the background and announce the time every hour.
 
@@ -75,7 +75,7 @@ Time 11 PM
 
 ## Download the `.exe` File
 Click the link below to download the `.exe` file for direct use:  
-[**Download Time Alert Executable**](#)  
+[**Download Time Alert Executable**](https://github.com/AnubhavChaturvedi-GitHub/Time-Alert-Bot/blob/main/dist/timeSpeaker.exe)  
 *(Add your download link here.)*
 
 ---
